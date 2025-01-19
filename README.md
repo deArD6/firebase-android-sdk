@@ -238,7 +238,7 @@ it by commenting out its reference in [subprojects.cfg](subprojects.cfg).
 
 ### Code Formatting
 
-Code in this repo is formatted with the google-java-format tool. You can enable
+Code in this Addon is formatted with the google-java-format tool. You can enable
 this formatting in Android Studio by downloading and installing the
 [google-java-format plugin](https://github.com/google/google-java-format).
 The plugin is disabled by default, but the repo contains configuration information
